@@ -1,0 +1,12 @@
+Source: libqbit-application-model-api-soap-perl
+Section: perl
+Priority: extra
+Maintainer: Sergei Svistunov <sergei-svistunov@yandex.ru>
+Build-Depends: debhelper (>= 8.0.0), perl, libqbit-perl, libqbit-application-model-api-perl, libsoap-lite-perl, libdata-rmap-perl
+Standards-Version: 3.9.4
+
+Package: libqbit-application-model-api-soap-perl
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${perl:Depends}, perl, libqbit-perl, libqbit-application-model-api-perl, libsoap-lite-perl, libdata-rmap-perl
+Description: Base class for construct SOAP API connectors.
+ Base class for construct SOAP API connectors.
