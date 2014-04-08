@@ -51,7 +51,6 @@ sub call {
                         uri       => $self->{__SOAP__}->uri,
                         method    => $func,
                         params    => \@opts,
-                        content   => undef,
                         error     => $som->faultstring
                     }
                 ) if $self->can('log');
