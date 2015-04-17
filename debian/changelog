@@ -1,4 +1,4 @@
-libqbit-application-model-api-soap-perl (0.002) raring; urgency=low
+libtertiusqbit-application-model-api-soap-perl (0.002) raring; urgency=low
 
   * delete "content" if equal "undef"
 
@@ -6,7 +6,7 @@ libqbit-application-model-api-soap-perl (0.002) raring; urgency=low
 
  -- Sergei Svistunov <sergei-svistunov@yandex.ru>  Tue, 08 Apr 2014 12:50:11 +0400
 
-libqbit-application-model-api-soap-perl (0.001) raring; urgency=low
+libtertiusqbit-application-model-api-soap-perl (0.001) raring; urgency=low
 
   * Initial commit
 
