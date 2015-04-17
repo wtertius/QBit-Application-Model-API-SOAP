@@ -1,3 +1,9 @@
+libtertiusqbit-application-model-api-soap-perl (0.003) raring; urgency=low
+
+  * Rename debian package
+
+ -- Dmitry Lukiyanchuk <tertius@yandex-team.ru>  Fri, 17 Apr 2015 17:45:39 +0300
+
 libtertiusqbit-application-model-api-soap-perl (0.002) raring; urgency=low
 
   * delete "content" if equal "undef"
